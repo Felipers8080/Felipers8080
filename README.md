@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe and I'm a Java Developer from Sergipe, Brasil</p>
+<p align="left">My name is Felipe and I'm a Full Stack Developer from Sergipe, Brasil</p>
 
 ###
 
